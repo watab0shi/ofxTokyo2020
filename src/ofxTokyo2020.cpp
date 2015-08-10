@@ -1059,8 +1059,8 @@ void BlockMatrix::draw()
 map< char, int > ofxTokyo2020::charMap;
 
 float ofxTokyo2020::fontSize      = 100;
-float ofxTokyo2020::letterSpacing = ofxTokyo2020::fontSize / 2;
-float ofxTokyo2020::lineHeight    = ofxTokyo2020::fontSize / 2;
+float ofxTokyo2020::letterSpacing = ofxTokyo2020::fontSize / 3;
+float ofxTokyo2020::lineHeight    = ( ofxTokyo2020::fontSize / 3 ) * 4;
 
 
 ofxTokyo2020::ofxTokyo2020()
