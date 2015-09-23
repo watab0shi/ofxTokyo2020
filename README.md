@@ -7,6 +7,3 @@ available character is ( a~z 0~9 ! . ' : ; _ space newLine )
 
 ![screen](screenshot.png)
 
-# License
-
-The MIT License (MIT)
